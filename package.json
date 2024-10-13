@@ -2,7 +2,6 @@
   "name": "gps-web-app",
   "version": "1.0.0",
   "main": "frontend/src/App.js",
-  "homepage": "https://dygital0.github.io/gps/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
