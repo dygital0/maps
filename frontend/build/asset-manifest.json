@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gps/static/css/main.8e9ebc44.css",
+    "main.js": "/gps/static/js/main.40967d83.js",
+    "static/js/453.8ab44547.chunk.js": "/gps/static/js/453.8ab44547.chunk.js",
+    "index.html": "/gps/index.html",
+    "main.8e9ebc44.css.map": "/gps/static/css/main.8e9ebc44.css.map",
+    "main.40967d83.js.map": "/gps/static/js/main.40967d83.js.map",
+    "453.8ab44547.chunk.js.map": "/gps/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e9ebc44.css",
+    "static/js/main.40967d83.js"
+  ]
+}
