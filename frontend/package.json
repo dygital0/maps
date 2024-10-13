@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://dygital0.github.io/maps/",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
